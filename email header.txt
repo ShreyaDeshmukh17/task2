@@ -1,0 +1,13 @@
+Return-Path: <security-update@secure-microsofft.com>
+Received: from unknown.hostedserver.ru (unknown.hostedserver.ru [185.88.12.45])
+        by mail.yourdomain.com (Postfix) with ESMTP id 1234ABCD
+        for <you@yourdomain.com>; Mon, 27 May 2025 12:34:56 +0000 (UTC)
+Authentication-Results: yourdomain.com;
+    spf=fail smtp.mailfrom=secure-microsofft.com;
+    dkim=fail header.d=secure-microsofft.com;
+    dmarc=fail header.from=secure-microsofft.com
+From: Microsoft Account Team <security-update@secure-microsofft.com>
+To: <you@yourdomain.com>
+Subject: URGENT: Verify Your Microsoft Account Now to Avoid Suspension
+Date: Mon, 27 May 2025 12:34:22 +0000
+Message-ID: <update-789@secure-microsofft.com>

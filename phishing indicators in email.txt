@@ -1,0 +1,10 @@
+|   Indicator           | What to Look For                               | In This Email                                      |
+| --------------------- | ---------------------------------------------- | -------------------------------------------------- |
+|   Spoofed Sender      | Misspelled domain or fake sender               | `secure-microsofft.com` instead of `microsoft.com` |
+|   Failing Headers     | SPF/DKIM/DMARC fail                            | All three failed                                   |
+|   Originating IP      | Unfamiliar server                              | IP from Russia                                     |
+|   Urgency/Threats     | Urgent call to action                          | “Failure to act... will result in suspension”      |
+|   Fake Link           | URL doesn't match brand                        | `securelogin-check.com` (not a Microsoft domain)   |
+|   Grammar Issues      | Awkward phrasing                               | “Do not ignore this important security alert”      |
+|   Branding Mismatch   | Logo/images/text don't match official branding | No legitimate Microsoft formatting or links        |
+------------------------------------------------------------------------------------------------------------------------------

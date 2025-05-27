@@ -1,0 +1,16 @@
+Dear User,
+
+We have detected unusual activity on your Microsoft account. For your security, your account has been temporarily locked.
+
+To restore access, please verify your identity by clicking the secure link below:
+
+>> Verify Now: https://microsofft-verification.securelogin-check.com/account
+
+Failure to act within the next 24 hours will result in permanent suspension of your Microsoft services, including Outlook, OneDrive, and Teams.
+
+Please do not ignore this important security alert.
+
+Thank you,
+Microsoft Account Security Team
+
+© Microsoft 2025. All rights reserved.
